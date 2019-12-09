@@ -1,0 +1,43 @@
+"interactionModel": {
+    "languageModel": {
+        "invocationName": "pickup artist",
+        "intents": [
+            {
+                "name": "AMAZON.FallbackIntent",
+                "samples": []
+            },
+            {
+                "name": "AMAZON.CancelIntent",
+                "samples": []
+            },
+            {
+                "name": "AMAZON.HelpIntent",
+                "samples": []
+            },
+            {
+                "name": "AMAZON.StopIntent",
+                "samples": []
+            },
+            {
+                "name": "AMAZON.NavigateHomeIntent",
+                "samples": []
+            },
+            {
+                "name": "PickupIntent",
+                "slots": [],
+                "samples": [
+                    "smooth",
+                    "pickup line",
+                    "pickup"
+                ]
+            },
+            {
+                "name": "exitIntent",
+                "slots": [],
+                "samples": []
+            }
+        ],
+        "types": []
+    }
+}
+}
